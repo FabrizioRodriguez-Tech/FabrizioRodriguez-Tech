@@ -9,13 +9,13 @@
 
 ### About Me
 
-<h5 align="left">
+<h4 align="left">
 As a Software Engineering student, I love understanding how applications are built, <br/>
   but I am even more driven by how to deploy them securely and efficiently in the cloud.<br/>
 Currently, I am focusing on AWS architecture and exploring the field of cybersecurity.<br/>
 Feel free to reach out if you want to chat about Java, Python, Linux, Cloud, or Security. <br/>
   We can talk in both Spanish and English.
-</h5>
+</h4>
 <br/>
 <div align="left">
 <a href="https://www.linkedin.com/in/fabrizio-rodriguez-652344410" target="_blank">
