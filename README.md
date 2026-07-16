@@ -33,7 +33,7 @@ Feel free to reach out if you want to chat about Java, Python, Linux, Cloud, or 
 <a href="https://tryhackme.com/p/TU_USUARIO" target="_blank">
 <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="tryhackme logo" />
 </a>
-<a href="TU_LINK_DE_SPOTIFY" target="_blank">
+<a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke?si=9ea69c3dbb3d4522" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="24" alt="spotify logo" />
 </a>
 </div>
