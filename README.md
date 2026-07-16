@@ -27,7 +27,7 @@ Feel free to reach out if you want to chat about Java, Python, Linux, Cloud, or 
 <a href="TU_LINK_DE_DISCORD" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo" />
 </a>
-<a href="https://tryhackme.com/p/TU_USUARIO](https://tryhackme.com/p/Faburitsuio">
+<a href="https://tryhackme.com/p/Faburitsuio">
 <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="tryhackme logo" />
 </a>
 <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke?si=9ea69c3dbb3d4522" target="_blank">
