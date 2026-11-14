@@ -49,12 +49,12 @@ fabrizio@grid:~$ _
 <h3 align="center">▸ 03 // SYSTEM_STATS</h3>
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/FabrizioRodriguez-Tech/FabrizioRodriguez-Tech/stats-output/stats.svg" alt="stats graph" />
+  <img height="165" src="./profile/stats.svg" alt="stats graph" />
   <img height="165" src="https://streak-stats.demolab.com/?user=FabrizioRodriguez-Tech&background=0C0A16&border=A78BFA&stroke=2A2440&ring=A78BFA&fire=F472B6&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FabrizioRodriguez-Tech&bg_color=0c0a16&color=c4b5fd&line=a78bfa&point=f472b6&area=true&area_color=a78bfa&title_color=f472b6&custom_title=%E2%96%B8%20contribution_signal.log&hide_border=false&border_color=2a2440&radius=12" alt="activity graph" />
+  <img height="165" src="./profile/top-langs.svg" alt="top languages" />
 </p>
 
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
