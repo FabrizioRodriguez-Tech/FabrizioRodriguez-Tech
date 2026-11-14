@@ -23,7 +23,7 @@ fabrizio@grid:~$ cat about_me.txt
 > Construyo apps y las despliego
   seguras y eficientes en la nube
 > Focus ..... AWS + Cybersecurity
-> Stack ..... Java · Python · Linux
+> Stack ..... Java · TypeScript · Linux
 > Idiomas ... ES / EN
 
 fabrizio@grid:~$ _
@@ -38,39 +38,12 @@ fabrizio@grid:~$ _
   <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img src="https://img.shields.io/badge/Spotify-0c0a16?style=for-the-badge&logo=spotify&logoColor=a78bfa&labelColor=0c0a16&color=a78bfa" alt="Spotify" /></a>
 </p>
 
-<p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
-
-<!-- ═══════════════════════  STACK  ═══════════════════════ -->
-<h3 align="center">▸ 02 // TECH_ARSENAL</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,ts,html,react,nodejs,postgres,aws,git,linux,idea&theme=dark&perline=6" alt="tech stack" />
-</p>
-
-<p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
-
 <!-- ═══════════════════════  STATS  ═══════════════════════ -->
-<h3 align="center">▸ 03 // SYSTEM_STATS</h3>
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="stats graph" />
   <img height="165" src="https://streak-stats.demolab.com/?user=FabrizioRodriguez-Tech&background=0C0A16&border=A78BFA&stroke=2A2440&ring=A78BFA&fire=F472B6&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" alt="streak stats" />
 </p>
-
-<p align="center">
-  <img height="165" src="./profile/top-langs.svg" alt="top languages" />
-</p>
-
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
-
-
-<!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
-<h3 align="center">▸ 04 // CONTRIBUTION_GRID</h3>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/FabrizioRodriguez-Tech/FabrizioRodriguez-Tech/snake-output/snake-violet.svg" alt="snake contribution graph" />
-</p>
-
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <p align="center">
   <img src="https://count.getloli.com/@:FabrizioRodriguez-Tech?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
