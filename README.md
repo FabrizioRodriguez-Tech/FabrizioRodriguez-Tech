@@ -12,7 +12,6 @@
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
 
 <!-- ═══════════════════════  ABOUT + MUSIC  ═══════════════════════ -->
-<h3 align="center">▸ 01 // ABOUT_ME</h3>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnnzo6xw64w3nrxh3nmihlygke&redirect=true" target="_blank"><img align="left" height="180" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnnzo6xw64w3nrxh3nmihlygke&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0c0a16&interchange=false&profanity=false&hide_remaster=true&bar_color=a78bfa&bar_color_cover=false&mode=dark" alt="Spotify now playing" /></a>
 
