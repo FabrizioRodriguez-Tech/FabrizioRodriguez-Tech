@@ -1,7 +1,7 @@
 <svg width="720" height="480" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fabrizio Rodriguez - terminal card">
 <defs>
   <clipPath id="cardClip"><rect x="0" y="0" width="720" height="480" rx="18"/></clipPath>
-  <clipPath id="typeClip"><rect x="30" y="60" width="0" height="28"><animate attributeName="width" values="0;530" dur="1.5s" begin="0.3s" fill="freeze" calcMode="linear"/></rect></clipPath>
+  <clipPath id="typeClip"><rect x="30" y="60" width="0" height="28"><animate attributeName="width" values="0;310" dur="1.1s" begin="0.3s" fill="freeze" calcMode="linear"/></rect></clipPath>
 </defs>
 <g clip-path="url(#cardClip)">
   <rect width="720" height="480" fill="#0c0a16"/>
@@ -13,8 +13,8 @@
   <text x="360" y="26" text-anchor="middle" font-family="'Consolas', 'Fira Code', monospace" font-size="12" fill="#8b949e">~/fabriziorodriguez-tech — zsh</text>
 
   <!-- saludo con efecto de escritura -->
-  <text x="30" y="80" font-family="'Consolas', 'Fira Code', monospace" font-size="21" font-weight="700" fill="#f0f6fc" clip-path="url(#typeClip)">Hi, I&apos;m Alexander Fabrizio Rodriguez Pérez</text>
-  <rect x="30" y="63" width="9" height="22" fill="#a78bfa"><animate attributeName="x" values="30;560" dur="1.5s" begin="0.3s" fill="freeze"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" begin="1.8s" repeatCount="indefinite"/></rect>
+  <text x="30" y="80" font-family="'Consolas', 'Fira Code', monospace" font-size="21" font-weight="700" fill="#f0f6fc" clip-path="url(#typeClip)">Hi, I&apos;m Fabrizio Rodriguez</text>
+  <rect x="30" y="63" width="9" height="22" fill="#a78bfa"><animate attributeName="x" values="30;332" dur="1.1s" begin="0.3s" fill="freeze"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" begin="1.8s" repeatCount="indefinite"/></rect>
 
   <!-- roles rotando -->
   <text x="30" y="114" font-family="'Consolas', 'Fira Code', monospace" font-size="14" fill="#8b949e">$ whoami --role</text>
