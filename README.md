@@ -43,11 +43,20 @@ fabrizio@grid:~$ _
   <img height="165" src="https://streak-stats.demolab.com/?user=FabrizioRodriguez-Tech&background=0C0A16&border=A78BFA&stroke=2A2440&ring=A78BFA&fire=F472B6&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" alt="streak stats" />
 </p>
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
+
+
+
+<p align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke" target="_blank">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke&hide_playing=1&limit=3" alt="Data Card for Spotify" />
+  </a>
+</p>
+
+
+
+
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <p align="center">
   <img src="https://count.getloli.com/@:FabrizioRodriguez-Tech?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f472b6,55:6d28d9,100:0c0a16" alt="footer" />
-</p>
