@@ -11,27 +11,31 @@
 
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
 
-<!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
+<!-- ═══════════════════════  ABOUT + MUSIC  ═══════════════════════ -->
 <h3 align="center">▸ 01 // ABOUT_ME</h3>
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnnzo6xw64w3nrxh3nmihlygke&redirect=true" target="_blank"><img align="left" height="180" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnnzo6xw64w3nrxh3nmihlygke&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0c0a16&interchange=false&profanity=false&hide_remaster=true&bar_color=a78bfa&bar_color_cover=false&mode=dark" alt="Spotify now playing" /></a>
 
 ```bash
 fabrizio@grid:~$ cat about_me.txt
 
-  > Software Engineering student.
-  > Me encanta entender cómo se construyen las aplicaciones,
-    pero me mueve aún más desplegarlas de forma segura y eficiente en la nube.
-  > Focus actual ......... AWS architecture  +  Cybersecurity
-  > Hablemos de ......... Java · Python · Linux · Cloud · Security
-  > Idiomas ............. ES / EN
+> Software Engineering student
+> Construyo apps y las despliego
+  seguras y eficientes en la nube
+> Focus ..... AWS + Cybersecurity
+> Stack ..... Java · Python · Linux
+> Idiomas ... ES / EN
 
 fabrizio@grid:~$ _
 ```
 
+<br clear="left"/>
+
 <p align="center">
+  <a href="https://github.com/FabrizioRodriguez-Tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-0c0a16?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0c0a16&color=f472b6" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/fabrizio-rodriguez-652344410" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0c0a16?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0c0a16&color=a78bfa" alt="LinkedIn" /></a>
   <a href="https://tryhackme.com/p/Faburitsuio" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-0c0a16?style=for-the-badge&logo=tryhackme&logoColor=f472b6&labelColor=0c0a16&color=f472b6" alt="TryHackMe" /></a>
   <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img src="https://img.shields.io/badge/Spotify-0c0a16?style=for-the-badge&logo=spotify&logoColor=a78bfa&labelColor=0c0a16&color=a78bfa" alt="Spotify" /></a>
-  <a href="https://github.com/FabrizioRodriguez-Tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-0c0a16?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0c0a16&color=f472b6" alt="GitHub" /></a>
 </p>
 
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
@@ -59,19 +63,9 @@ fabrizio@grid:~$ _
 
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
 
-<!-- ═══════════════════════  MUSIC  ═══════════════════════ -->
-<h3 align="center">▸ 04 // NOW_PLAYING</h3>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnnzo6xw64w3nrxh3nmihlygke&cover_image=true&theme=default&show_offline=true&background_color=0c0a16&bar_color=a78bfa&border_radius=18" alt="Spotify now playing" />
-  </a>
-</p>
-
-<p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
 
 <!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
-<h3 align="center">▸ 05 // CONTRIBUTION_GRID</h3>
+<h3 align="center">▸ 04 // CONTRIBUTION_GRID</h3>
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/FabrizioRodriguez-Tech/FabrizioRodriguez-Tech/snake-output/snake-violet.svg" alt="snake contribution graph" />
