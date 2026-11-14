@@ -1,1 +1,58 @@
+<svg width="720" height="480" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fabrizio Rodriguez - terminal card">
+<defs>
+  <clipPath id="cardClip"><rect x="0" y="0" width="720" height="480" rx="18"/></clipPath>
+  <clipPath id="typeClip"><rect x="30" y="60" width="0" height="28"><animate attributeName="width" values="0;530" dur="1.5s" begin="0.3s" fill="freeze" calcMode="linear"/></rect></clipPath>
+</defs>
+<g clip-path="url(#cardClip)">
+  <rect width="720" height="480" fill="#0c0a16"/>
+  <rect x="1" y="1" width="718" height="478" rx="17" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1.5"/>
 
+  <!-- barra de título -->
+  <rect x="0" y="0" width="720" height="42" fill="#221c3d"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56" opacity="0.9"/><circle cx="46" cy="21" r="6" fill="#ffbd2e" opacity="0.9"/><circle cx="66" cy="21" r="6" fill="#27c93f" opacity="0.9"/>
+  <text x="360" y="26" text-anchor="middle" font-family="'Consolas', 'Fira Code', monospace" font-size="12" fill="#8b949e">~/fabriziorodriguez-tech — zsh</text>
+
+  <!-- saludo con efecto de escritura -->
+  <text x="30" y="80" font-family="'Consolas', 'Fira Code', monospace" font-size="21" font-weight="700" fill="#f0f6fc" clip-path="url(#typeClip)">Hi, I&apos;m Alexander Fabrizio Rodriguez Pérez</text>
+  <rect x="30" y="63" width="9" height="22" fill="#a78bfa"><animate attributeName="x" values="30;560" dur="1.5s" begin="0.3s" fill="freeze"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" begin="1.8s" repeatCount="indefinite"/></rect>
+
+  <!-- roles rotando -->
+  <text x="30" y="114" font-family="'Consolas', 'Fira Code', monospace" font-size="14" fill="#8b949e">$ whoami --role</text>
+  <g font-family="'Consolas', 'Fira Code', monospace" font-size="16.5" font-weight="600">
+    <text x="30" y="142" fill="#a78bfa" opacity="0">&gt; Software Engineer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.012;0.238;0.250;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="30" y="142" fill="#a78bfa" opacity="0">&gt; Full-Stack Web Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.250;0.262;0.488;0.500;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="30" y="142" fill="#a78bfa" opacity="0">&gt; AI/ML Innovator<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.500;0.512;0.738;0.750;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="30" y="142" fill="#a78bfa" opacity="0">&gt; Open Source Builder<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.750;0.762;0.988;1.000;1" dur="15s" repeatCount="indefinite"/></text>
+  </g>
+  <line x1="30" y1="164" x2="690" y2="164" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+
+  <!-- datos -->
+  <g font-family="'Consolas', 'Fira Code', monospace" font-size="13">
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.2s" fill="freeze"/><circle cx="36" cy="191" r="3" fill="#a78bfa"/><text x="50" y="196" fill="#8b949e">Location:</text><text x="190" y="196" font-weight="600" fill="#f0f6fc">Global</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.5s" fill="freeze"/><circle cx="36" cy="218" r="3" fill="#a78bfa"/><text x="50" y="223" fill="#8b949e">Education:</text><text x="190" y="223" font-weight="600" fill="#f0f6fc">Computer Science &amp; Software Development</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.8s" fill="freeze"/><circle cx="36" cy="245" r="3" fill="#a78bfa"/><text x="50" y="250" fill="#8b949e">Current Focus:</text><text x="190" y="250" font-weight="600" fill="#f0f6fc">Web Design</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.1s" fill="freeze"/><circle cx="36" cy="272" r="3" fill="#a78bfa"/><text x="50" y="277" fill="#8b949e">GitHub:</text><text x="190" y="277" font-weight="600" fill="#f472b6">github.com/FabrizioRodriguez-Tech</text></g>
+  </g>
+
+  <!-- estado (antes estaba debajo de la foto) -->
+  <text x="30" y="316" font-family="'Consolas', 'Fira Code', monospace" font-size="13.5" fill="#8b949e">$ echo $STATUS</text>
+  <circle cx="36" cy="336" r="4.5" fill="#a78bfa"><animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="50" y="340" font-family="'Consolas', 'Fira Code', monospace" font-size="13" fill="#9ca3af">available for opportunities <tspan fill="#8b949e">// Hello awa</tspan></text>
+
+  <!-- tech stack -->
+  <text x="30" y="378" font-family="'Consolas', 'Fira Code', monospace" font-size="13.5" fill="#8b949e">$ ls ./tech-stack</text>
+  <g font-family="'Fira Code', 'Consolas', monospace" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <g transform="translate(30, 394)"><rect width="69" height="26" rx="10" fill="rgba(167,139,250,0.12)" stroke="#a78bfa"/><text x="34.5" y="17">Python</text></g>
+    <g transform="translate(107, 394)"><rect width="54" height="26" rx="10" fill="rgba(244,114,182,0.12)" stroke="#f472b6"/><text x="27" y="17">HTML</text></g>
+    <g transform="translate(169, 394)"><rect width="52" height="26" rx="10" fill="rgba(167,139,250,0.12)" stroke="#a78bfa"/><text x="26" y="17">C#</text></g>
+    <g transform="translate(229, 394)"><rect width="99" height="26" rx="10" fill="rgba(244,114,182,0.12)" stroke="#f472b6"/><text x="49.5" y="17">TypeScript</text></g>
+    <g transform="translate(336, 394)"><rect width="54" height="26" rx="10" fill="rgba(167,139,250,0.12)" stroke="#a78bfa"/><text x="27" y="17">Java</text></g>
+    <g transform="translate(398, 394)"><rect width="99" height="26" rx="10" fill="rgba(244,114,182,0.12)" stroke="#f472b6"/><text x="49.5" y="17">PostgreSQL</text></g>
+    <g transform="translate(505, 394)"><rect width="52" height="26" rx="10" fill="rgba(167,139,250,0.12)" stroke="#a78bfa"/><text x="26" y="17">AWS</text></g>
+    <g transform="translate(565, 394)"><rect width="52" height="26" rx="10" fill="rgba(244,114,182,0.12)" stroke="#f472b6"/><text x="26" y="17">Git</text></g>
+    <g transform="translate(30, 428)"><rect width="61.5" height="26" rx="10" fill="rgba(167,139,250,0.12)" stroke="#a78bfa"/><text x="30.75" y="17">Linux</text></g>
+    <g transform="translate(99.5, 428)"><rect width="61.5" height="26" rx="10" fill="rgba(244,114,182,0.12)" stroke="#f472b6"/><text x="30.75" y="17">React</text></g>
+    <g transform="translate(169, 428)"><rect width="76.5" height="26" rx="10" fill="rgba(167,139,250,0.12)" stroke="#a78bfa"/><text x="38.25" y="17">Node.JS</text></g>
+  </g>
+</g>
+</svg>
