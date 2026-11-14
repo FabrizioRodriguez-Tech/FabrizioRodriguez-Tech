@@ -47,6 +47,12 @@ fabrizio@grid:~$ _
 
 
 <p align="center">
+  <img width="95%" src="./profile-3d-contrib/profile-custom.svg" alt="3D contributions" />
+</p>
+
+
+
+<p align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke" target="_blank">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke&hide_playing=1&limit=3" alt="Data Card for Spotify" />
   </a>
