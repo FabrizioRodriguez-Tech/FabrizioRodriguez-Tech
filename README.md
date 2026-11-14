@@ -30,6 +30,8 @@ fabrizio@grid:~$ _
 
 <br clear="left"/>
 
+<!-- ═══════════════════════  REDES  ═══════════════════════ -->
+
 <p align="center">
   <a href="https://github.com/FabrizioRodriguez-Tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-0c0a16?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0c0a16&color=f472b6" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/fabrizio-rodriguez-652344410" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0c0a16?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0c0a16&color=a78bfa" alt="LinkedIn" /></a>
@@ -37,20 +39,15 @@ fabrizio@grid:~$ _
   <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img src="https://img.shields.io/badge/Spotify-0c0a16?style=for-the-badge&logo=spotify&logoColor=a78bfa&labelColor=0c0a16&color=a78bfa" alt="Spotify" /></a>
 </p>
 
-<!-- ═══════════════════════  STATS  ═══════════════════════ -->
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=FabrizioRodriguez-Tech&background=0C0A16&border=A78BFA&stroke=2A2440&ring=A78BFA&fire=F472B6&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" alt="streak stats" />
-</p>
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
 
-
+<!-- ═══════════════════════  CONTRIBUCIONES  ═══════════════════════ -->
 
 <p align="center">
   <img width="95%" src="./profile-3d-contrib/profile-custom.svg" alt="3D contributions" />
 </p>
 
-
+<!-- ═══════════════════════  MUSIC STATS  ═══════════════════════ -->
 
 <p align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke" target="_blank">
@@ -58,11 +55,7 @@ fabrizio@grid:~$ _
   </a>
 </p>
 
-
-
-
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <p align="center">
   <img src="https://count.getloli.com/@:FabrizioRodriguez-Tech?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
 </p>
-
