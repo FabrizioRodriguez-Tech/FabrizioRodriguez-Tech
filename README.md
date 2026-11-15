@@ -34,19 +34,15 @@ fabrizio@grid:~$ _
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img align="left" width="55%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke&hide_playing=1&hide_recents=1&limit=3" alt="Top Artists & Top Tracks" /></a>
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/FabrizioRodriguez-Tech" target="_blank"><img width="20%" src="./assets/tile-github.svg" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/fabrizio-rodriguez-652344410" target="_blank"><img width="20%" src="./assets/tile-linkedin.svg" alt="LinkedIn" /></a>
+<div align="center">
+  <a href="https://github.com/FabrizioRodriguez-Tech" target="_blank"><img width="16%" src="./assets/tile-github.svg" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/fabrizio-rodriguez-652344410" target="_blank"><img width="16%" src="./assets/tile-linkedin.svg" alt="LinkedIn" /></a>
   <br/>
-  <a href="https://tryhackme.com/p/Faburitsuio" target="_blank"><img width="20%" src="./assets/tile-tryhackme.svg" alt="TryHackMe" /></a>
-  <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img width="20%" src="./assets/tile-spotify.svg" alt="Spotify" /></a>
-</p>
+  <a href="https://tryhackme.com/p/Faburitsuio" target="_blank"><img width="16%" src="./assets/tile-tryhackme.svg" alt="TryHackMe" /></a>
+  <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img width="16%" src="./assets/tile-spotify.svg" alt="Spotify" /></a>
+</div>
 
 <br clear="left"/>
-
-<p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
 
 <!-- ═══════════════════════  CONTRIBUCIONES  ═══════════════════════ -->
 
