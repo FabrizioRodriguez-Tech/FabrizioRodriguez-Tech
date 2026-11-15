@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════  PERFIL  ═══════════════════════ -->
 <p align="center">
-  <img height="340" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVpc25uNWltbGpvbTI0anNtdzM5ZHhsYTM2aHBxZzZrdWlkampoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hR97szFQRLxrIzPco/giphy.gif" alt="Miku" />
+  <img height="340" src="https://i.giphy.com/4hR97szFQRLxrIzPco.gif" alt="Miku" />
   <img height="340" src="./assets/profile-card.svg" alt="Fabrizio Rodriguez - terminal card" />
 </p>
 
@@ -30,14 +30,21 @@ fabrizio@grid:~$ _
 
 <br clear="left"/>
 
-<!-- ═══════════════════════  REDES  ═══════════════════════ -->
+<!-- ═══════════════════════  TOP MUSIC + REDES (TILES)  ═══════════════════════ -->
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img align="left" width="55%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke&hide_playing=1&hide_recents=1&limit=3" alt="Top Artists & Top Tracks" /></a>
+
+<br/>
 
 <p align="center">
-  <a href="https://github.com/FabrizioRodriguez-Tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-0c0a16?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0c0a16&color=f472b6" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/fabrizio-rodriguez-652344410" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0c0a16?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0c0a16&color=a78bfa" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/Faburitsuio" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-0c0a16?style=for-the-badge&logo=tryhackme&logoColor=f472b6&labelColor=0c0a16&color=f472b6" alt="TryHackMe" /></a>
-  <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img src="https://img.shields.io/badge/Spotify-0c0a16?style=for-the-badge&logo=spotify&logoColor=a78bfa&labelColor=0c0a16&color=a78bfa" alt="Spotify" /></a>
+  <a href="https://github.com/FabrizioRodriguez-Tech" target="_blank"><img width="20%" src="./assets/tile-github.svg" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/fabrizio-rodriguez-652344410" target="_blank"><img width="20%" src="./assets/tile-linkedin.svg" alt="LinkedIn" /></a>
+  <br/>
+  <a href="https://tryhackme.com/p/Faburitsuio" target="_blank"><img width="20%" src="./assets/tile-tryhackme.svg" alt="TryHackMe" /></a>
+  <a href="https://open.spotify.com/user/31mnnzo6xw64w3nrxh3nmihlygke" target="_blank"><img width="20%" src="./assets/tile-spotify.svg" alt="Spotify" /></a>
 </p>
+
+<br clear="left"/>
 
 <p align="center"><img width="90%" src="./assets/divider.svg" alt="divider" /></p>
 
@@ -45,14 +52,6 @@ fabrizio@grid:~$ _
 
 <p align="center">
   <img width="95%" src="./profile-3d-contrib/profile-custom.svg" alt="3D contributions" />
-</p>
-
-<!-- ═══════════════════════  MUSIC STATS  ═══════════════════════ -->
-
-<p align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke" target="_blank">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mnnzo6xw64w3nrxh3nmihlygke&hide_playing=1&limit=3" alt="Data Card for Spotify" />
-  </a>
 </p>
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
